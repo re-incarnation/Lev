@@ -1,0 +1,55 @@
+{
+  "branch": [
+    {
+      "id": "1",
+      "net_link": "10.0.1.1-254",
+      "branch_name": "24 Ип Валера"
+    },
+    {
+      "id": "2",
+      "net_link": "10.0.2.1-254",
+      "branch_name": "23 Ип Валера"
+    },
+    {
+      "id": "3",
+      "net_link": "10.0.3.1-254",
+      "branch_name": "25 Ип Валера"
+    },
+    {
+      "id": "4",
+      "net_link": "10.0.4.1-254",
+      "branch_name": "26 Ип Валера"
+    },
+    {
+      "id": "5",
+      "net_link": "10.0.5.1-254",
+      "branch_name": "22 Ип Валера"
+    }
+  ],
+  "objects": [
+    {
+      "model": "dsf",
+      "serial_number": "sdf",
+      "net_link": "",
+      "brench": ""
+    },
+    {
+      "model": "d",
+      "serial_number": "dfdg",
+      "net_link": "45645",
+      "brench": ""
+    },
+    {
+      "model": "d",
+      "serial_number": "dvbn",
+      "net_link": "213123",
+      "brench": ""
+    },
+    {
+      "model": "f",
+      "serial_number": "f",
+      "net_link": "fdf",
+      "brench": "sdf"
+    }
+  ]
+}
